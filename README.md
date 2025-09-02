@@ -1,7 +1,9 @@
 # 🌆 Crime Trends in Los Angeles: A Data Analysis Project
 
 ![LA Skyline](la_skyline.jpg)
-**DATASET TO BIG  TO UPLOAD, ADDED TO GOOGLE DRIVE**: https://drive.google.com/file/d/1dM6z1l2LVeLK6YBDkR0T-pKllSLaj39G/view?usp=drive_link
+## 📂 Dataset
+The dataset is too large to host on GitHub.  
+You can download it here: [Google Drive Link](https://drive.google.com/file/d/1dM6z1l2LVeLK6YBDkR0T-pKllSLaj39G/view?usp=drive_link). 
 ## 📌 Project Overview
 This project analyzes **Los Angeles crime data** to uncover patterns, hotspots, and trends.  
 It demonstrates **data cleaning, exploratory analysis, and visualization skills** using Python and SQL-inspired methods.  
