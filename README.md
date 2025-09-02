@@ -23,7 +23,3 @@ By working with real-world messy data, the project highlights how to transform r
 - Identified **crime frequency by type and location**  
 - Analyzed **temporal trends** (crime by year/month)  
 - Visualized results with clear, reproducible plots  
-
----
-
-## 📂 Project Structure
